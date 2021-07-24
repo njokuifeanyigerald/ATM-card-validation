@@ -8,6 +8,6 @@
     identification numbers such as credit card numbers, IMEI numbers, 
     National Provider Identifier numbers etc
 </p>
-<p> 
-    designed as=gainst accidental errors, not malicious attacks
+<p>
+    designed against accidental errors, not malicious attacks
 </p>
