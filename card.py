@@ -18,5 +18,5 @@ def luhn_checksum(card_number):
     
     
 
-print('valid') if luhn_checksum('4225841114046491')==0 else print('invalid')
+print('valid') if luhnpp_checksum('4225841114046491')==0 else print('invalid')
 
